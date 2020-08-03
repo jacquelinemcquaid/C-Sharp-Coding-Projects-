@@ -1,0 +1,7 @@
+C:\Users\jacqu\source\repos\Welcome Page\Welcome Page\obj\Debug\Welcome Page.csprojAssemblyReference.cache
+C:\Users\jacqu\source\repos\Welcome Page\Welcome Page\obj\Debug\Welcome Page.csproj.CoreCompileInputs.cache
+C:\Users\jacqu\source\repos\Welcome Page\Welcome Page\bin\Debug\Welcome Page.exe.config
+C:\Users\jacqu\source\repos\Welcome Page\Welcome Page\bin\Debug\Welcome Page.exe
+C:\Users\jacqu\source\repos\Welcome Page\Welcome Page\bin\Debug\Welcome Page.pdb
+C:\Users\jacqu\source\repos\Welcome Page\Welcome Page\obj\Debug\Welcome Page.exe
+C:\Users\jacqu\source\repos\Welcome Page\Welcome Page\obj\Debug\Welcome Page.pdb
