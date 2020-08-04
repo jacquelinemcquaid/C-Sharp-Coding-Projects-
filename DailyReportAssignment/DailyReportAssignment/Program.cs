@@ -22,9 +22,7 @@ namespace DailyReportAssignment
             string pageNumber = Console.ReadLine();
 
             Console.WriteLine("Do you need help with anything? Please answer 'true' or 'false'.");
-            bool helpNeeded = true;
-            string needsHelp = Convert.ToString(helpNeeded);
-            Console.ReadLine();
+            string needsHelp = Console.ReadLine();
 
             Console.WriteLine("Were there any positive experiences you would like to share? Please give specifics.");
             string feedback = Console.ReadLine();
@@ -34,6 +32,9 @@ namespace DailyReportAssignment
 
             Console.WriteLine("How many hours did you study today?");
             string hoursStudied = Console.ReadLine();
+
+            Console.WriteLine("Thank you for your answers. An Instructor will respond shortly. Have a great day!");
+            Console.ReadLine();
 
 
 
