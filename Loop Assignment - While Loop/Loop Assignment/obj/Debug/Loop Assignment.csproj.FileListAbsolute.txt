@@ -1,0 +1,7 @@
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\Loop Assignment\Loop Assignment\bin\Debug\Loop Assignment.exe.config
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\Loop Assignment\Loop Assignment\bin\Debug\Loop Assignment.exe
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\Loop Assignment\Loop Assignment\bin\Debug\Loop Assignment.pdb
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.csprojAssemblyReference.cache
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.exe
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.pdb
