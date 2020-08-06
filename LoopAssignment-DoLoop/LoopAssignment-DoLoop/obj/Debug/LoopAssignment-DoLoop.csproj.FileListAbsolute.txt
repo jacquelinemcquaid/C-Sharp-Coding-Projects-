@@ -1,0 +1,7 @@
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\LoopAssignment-DoLoop\LoopAssignment-DoLoop\bin\Debug\LoopAssignment-DoLoop.exe.config
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\LoopAssignment-DoLoop\LoopAssignment-DoLoop\bin\Debug\LoopAssignment-DoLoop.exe
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\LoopAssignment-DoLoop\LoopAssignment-DoLoop\bin\Debug\LoopAssignment-DoLoop.pdb
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\LoopAssignment-DoLoop\LoopAssignment-DoLoop\obj\Debug\LoopAssignment-DoLoop.csprojAssemblyReference.cache
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\LoopAssignment-DoLoop\LoopAssignment-DoLoop\obj\Debug\LoopAssignment-DoLoop.csproj.CoreCompileInputs.cache
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\LoopAssignment-DoLoop\LoopAssignment-DoLoop\obj\Debug\LoopAssignment-DoLoop.exe
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\LoopAssignment-DoLoop\LoopAssignment-DoLoop\obj\Debug\LoopAssignment-DoLoop.pdb
