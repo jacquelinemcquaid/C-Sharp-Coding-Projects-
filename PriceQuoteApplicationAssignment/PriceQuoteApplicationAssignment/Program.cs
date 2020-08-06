@@ -34,7 +34,7 @@ namespace PriceQuoteApplicationAssignment
             Console.WriteLine("Please enter the package length:");
             int length = Convert.ToInt32(Console.ReadLine());
 
-            int dimensions = (width * height * length) * 50 / 100;
+            int dimensions = (width * height * length) * weight / 100;
           
 
             if (width + height + length < 50 )
