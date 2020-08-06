@@ -34,13 +34,13 @@ namespace PriceQuoteApplicationAssignment
             Console.WriteLine("Please enter the package length:");
             int length = Convert.ToInt32(Console.ReadLine());
 
-            int dimensions = (width + height + length) * 50 / 100;
+            int dimensions = (width * height * length) * 50 / 100;
           
 
             if (width + height + length < 50 )
             {
-                Console.WriteLine("Your estimated total for shipping this package is: "); Console.WriteLine(dimensions);
-                
+                Console.WriteLine("Your estimated total (in CAD) for this package is: ");
+                Console.WriteLine(dimensions.ToString("$" + dimensions));
                 Console.ReadLine();
 
             }
