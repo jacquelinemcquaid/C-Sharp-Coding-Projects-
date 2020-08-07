@@ -41,9 +41,28 @@ namespace StringAssignment
             Console.WriteLine("Type 'okay' to continue.");
             Console.ReadLine();
 
-            StringBuilder sb = new StringBuilder();
-            sb.Append("My favorite color is blue.");
-            Console.WriteLine(sb);
+            StringBuilder p0 = new StringBuilder();
+            p0.Append("I am going to tell you about a few of my favorite things.");
+            Console.WriteLine(p0);
+
+            StringBuilder p1 = new StringBuilder();
+            p1.Append("My favorite color is blue.");
+            Console.WriteLine(p1);
+            StringBuilder p2 = new StringBuilder();
+            p2.Append("My favourite fruit is watermelon.");
+            Console.WriteLine(p2);
+            StringBuilder p3 = new StringBuilder();
+            p3.Append("My favourite sport is swimming.");
+            Console.WriteLine(p3);
+
+            StringBuilder p4 = new StringBuilder();
+            p4.Append("What are your favorite things?");
+            Console.WriteLine(p4);
+            Console.ReadLine();
+
+
+
+
             Console.ReadLine();
 
 
