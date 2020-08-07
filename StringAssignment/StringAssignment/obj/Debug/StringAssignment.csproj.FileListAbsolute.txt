@@ -1,0 +1,7 @@
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe.config
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\StringAssignment\StringAssignment\bin\Debug\StringAssignment.pdb
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csprojAssemblyReference.cache
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\StringAssignment\StringAssignment\obj\Debug\StringAssignment.exe
+C:\Users\jacqu\OneDrive\Desktop\C# and .NET Framework\StringAssignment\StringAssignment\obj\Debug\StringAssignment.pdb
