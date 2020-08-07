@@ -36,8 +36,14 @@ namespace StringAssignment
             Console.WriteLine("Type 'okay' to continue");
             Console.ReadLine();
 
-            string quote = "To the world you may be one person; \n but to one person you may be the world. \n \n \t Be confident. \n \t Be you.";
+            string quote = "To the world you may be one person; \nbut to one person you may be the world. \n \n \t Be confident. \n \t Be you.";
             Console.WriteLine(quote);
+            Console.WriteLine("Type 'okay' to continue.");
+            Console.ReadLine();
+
+            StringBuilder sb = new StringBuilder();
+            sb.Append("My favorite color is blue.");
+            Console.WriteLine(sb);
             Console.ReadLine();
 
 
